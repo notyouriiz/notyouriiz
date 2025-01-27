@@ -52,7 +52,7 @@ I participated in the **Machine Learning learning path**, enhancing my skills in
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notyouriiz&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="35%" width="35%" style="margin: 10px;" />
 
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=notyouriiz&show_icons=true&locale=en" alt="GitHub Stats" width="45%" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notyouriiz&show_icons=true&locale=en" alt="GitHub Stats" width="46%" style="margin: 10px;" />
 
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notyouriiz&" alt="Streak Stats" style="margin: 10px;" />

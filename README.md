@@ -3,7 +3,7 @@
 <h3 align="center"> Artificial Intelligence | Business Intelligence | Financial Technology | Project Managerial</h3>
 <br>
 
-## 🌍 About Me
+## 🧑‍💻 About Me
 I am an undergraduate student at **Soegijapranata Catholic University**, majoring in **Artificial Intelligence (AI) and Big Data**. My primary interests lie in **Artificial Intelligence** and **Financial Technology**, areas in which I am eager to grow and contribute.
 <br>
 

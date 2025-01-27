@@ -1,5 +1,9 @@
 ## README: Introduction
 
+### Let's Connect
+- <a>https://bit.ly/Linkedin_FaizAdhytia</a>
+- <a>https://bit.ly/Fiver_FaizAdhytia</a>
+
 ### About Me
 I am an undergraduate student at **Soegijapranata Catholic University**, majoring in **Artificial Intelligence (AI) and Big Data**. My primary interests lie in **Business Intelligence** and **Project Management**, areas in which I am eager to grow and contribute.
 

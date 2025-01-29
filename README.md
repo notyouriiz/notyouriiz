@@ -83,12 +83,6 @@ I participated in the **Machine Learning learning path**, enhancing my skills in
 
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=notyouriiz&show_icons=true&locale=en" alt="GitHub Stats" width="46%" style="margin: 10px;" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notyouriiz&" 
-     alt="Streak Stats" 
-     onerror="this.onerror=null; this.src='https://via.placeholder.com/500x150?text=Stats+Unavailable';" 
-     style="margin: 10px;" />
 </div>
 
 <br>

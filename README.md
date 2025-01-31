@@ -85,7 +85,7 @@ I participated in the **Machine Learning learning path**, enhancing my skills in
   <img src="https://github-readme-stats.vercel.app/api?username=notyouriiz&show_icons=true&locale=en" alt="GitHub Stats" width="46%" style="margin: 10px;" />
 
   <!-- Streak Stats -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notyouriiz" alt="Streak Stats" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notyouriiz" alt="GitHub Streak" />
 </div>
 
 <br>

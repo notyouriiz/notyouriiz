@@ -9,7 +9,7 @@ I am an undergraduate student at **Soegijapranata Catholic University**, majorin
 
 - 🌱 I’m currently learning **Artificial Intelligence Engineering**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/Portfolio_FaizAdhytia](https://bit.ly/Portfolio_FaizAdhytia)
+- 👨‍💻 All of my projects are available at [https://bit.ly/Portfolio_FaizAdhytia](https://bit.ly/portfolio_FaizAdhytia)
 
 - 📫 How to reach me **faizadhytia24@gmail.com**
 

@@ -13,7 +13,7 @@ I am an undergraduate student at **Soegijapranata Catholic University**, majorin
 
 - 📫 How to reach me **faizadhytia24@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/CV_FaizAdhytia](https://bit.ly/CV_FaizAdhytia)
+- 📄 Know about my experiences [https://bit.ly/CV_FaizAdhytia](https://drive.google.com/file/d/12yzOAJzjRlvoFAhwD5jBrwskU1azV11Y/view?usp=sharing)
 <br>
 
 ## 🌟 Achievements & Projects

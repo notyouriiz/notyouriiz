@@ -22,14 +22,21 @@ I am an undergraduate student at **Soegijapranata Catholic University**, majorin
 I served as the **Product Manager** in this AI development competition, where our team reached the **Semifinals**. My role involved utilizing the **Design Thinking process** to create business analytics, project plans, briefs, and budgeting strategies.
 
 <a href="https://www.samsung.com/id/solvefortomorrow/" target="blank">
-    <img align="center" src="https://mobitekno.com/wp-content/uploads/2024/06/Solve-for-Tomorrow-2024-02.jpg" alt="Samsung Solve for Tomorrow 2024" style="border-radius: 10px; margin-top: 10px;" height="200" width="400" />
+    <img align="center" src="https://mobitekno.com/wp-content/uploads/2024/06/Solve-for-Tomorrow-2024-02.jpg" alt="Samsung Solve for Tomorrow 2024" style="border-radius: 10px; margin-top: 10px;" height="40%" width="40%" />
 </a>
 
 ### 📌 Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka  
 I participated in the **Machine Learning learning path**, enhancing my skills in **Data Analytics** and **Machine Learning** using Python and JavaScript. During the capstone project, I took on multiple roles as **Product Manager**, **UI/UX Designer**, **Machine Learning Engineer**, and **Team Leader**.
 
 <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning" target="blank">
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*36ZZAgCL8lE55H5P.png" alt="Bangkit Academy" style="border-radius: 10px; margin-top: 10px;" height="200" width="400" />
+    <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*36ZZAgCL8lE55H5P.png" alt="Bangkit Academy" style="border-radius: 10px; margin-top: 10px;" height="40%" width="40%" />
+</a>
+
+### 📌 Soegijapranata Student Career Centre  
+I served as the **Data Engineer** in this Internship experience, i am success to build an Ai Agent or Bot to scrap Linkedin Alumni Profiles and make it into web-based application
+
+<a href="https://www.linkedin.com/in/soegijapranata-student-career-centre-sscc-a77031250/" target="blank">
+    <img align="center" src="https://www.unika.ac.id/wp-content/uploads/2023/02/Logo-Soegijapranata-Catholic-University-SCU-768x207.png" alt="Soegijapranata Student Career Centre" style="border-radius: 10px; margin-top: 10px;" height="40%" width="40%" />
 </a>
 <br>
 <br>

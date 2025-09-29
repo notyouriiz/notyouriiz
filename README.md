@@ -7,7 +7,7 @@
 I am an undergraduate student at **Soegijapranata Catholic University**, majoring in **Artificial Intelligence (AI) and Big Data**. My primary interests lie in **Artificial Intelligence** and **Financial Technology**, areas in which I am eager to grow and contribute.
 <br>
 
-- 🌱 I’m currently learning **Artificial Intelligence Engineering**
+- 🌱 I’m currently learning **Artificial Intelligence Engineering on Financial Technology**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/Portfolio_FaizAdhytia](https://drive.google.com/file/d/1OkZ3_XLNBD3Ik5xUb_NbAPitAwJPm4Q5/view?usp=sharing)
 
